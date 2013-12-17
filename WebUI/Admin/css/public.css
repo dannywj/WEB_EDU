@@ -1,0 +1,71 @@
+﻿
+        .top
+        {
+            width: 500px;
+            height: 30px;
+            font-size: 16px;
+            font-weight: bold;
+            text-align: center;
+            margin: 0 auto;
+            line-height: 30px;
+            margin-top: 6px;
+            border: solid 2px #dedede;
+            margin-bottom: 4px;
+        }
+        .end
+        {
+            width: 500px;
+            height: 30px;
+            font-size: 14px;
+            font-weight: bold;
+            text-align: center;
+            margin: 0 auto;
+            line-height: 30px;
+            margin-top: 4px;
+            border: solid 2px #dedede;
+            margin-bottom: 4px;
+        }
+        .tr
+        {
+            width: 500px;
+            height: 28px;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 12px;
+            line-height: 28px;
+            border-bottom: solid 1px #dedede;
+            border-left: solid 1px #dedede;
+            border-right: solid 1px #dedede;
+        }
+        .th
+        {
+            width: 500px;
+            height: 28px;
+            margin: 0 auto;
+            text-align: center;
+            font-weight: bold;
+            font-size: 12px;
+            line-height: 28px;
+            border: solid 1px #dedede;
+            background-color: #dedede;
+            margin-top: 4px;
+        }
+        .t1
+        {
+            width: 30%;
+            height: 28px;
+            float: left;
+            border-right: solid 1px #dedede;
+            font-weight: bold;
+            text-align: right;
+        }
+        .t2
+        {
+            width: 68%;
+            height: 28px;
+            float: left;
+        }
+        #Reset1
+        {
+            width: 90px;
+        }

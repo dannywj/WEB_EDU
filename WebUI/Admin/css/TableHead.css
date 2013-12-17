@@ -1,0 +1,50 @@
+﻿ .top
+        {
+            width: 90%;
+            height: 30px;
+            font-size: 16px;
+            font-weight: bold;
+            text-align: center;
+            margin: 0 auto;
+            line-height: 30px;
+            margin-top: 6px;
+            border: solid 2px #dedede;
+        }
+        .tr
+        {
+            width: 100%;
+            height: 28px;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 12px;
+            line-height: 28px;
+            border-bottom: solid 1px #dedede;
+            border-left: solid 1px #dedede;
+            border-right: solid 1px #dedede;
+        }
+        .th
+        {
+            width: 100%;
+            height: 28px;
+            margin: 0 auto;
+            text-align: center;
+            font-weight: bold;
+            font-size: 12px;
+            line-height: 28px;
+            border: solid 1px #dedede;
+            background-color: #dedede;
+            margin-top: 4px;
+        }
+        .td1
+        {
+            width: 5%;
+            height: 28px;
+            float: left;
+            border-right: solid 1px #dedede;
+        }
+        .td2
+        {
+            width: 20%;
+            height: 28px;
+            float: left;
+        }
